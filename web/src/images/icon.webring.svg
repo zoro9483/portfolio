@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icon.webring</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="22" height="19.7815126"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-69.000000, -250.000000)">
+            <g id="icon.webring-2" transform="translate(69.000000, 250.000000)">
+                <g id="icon.webring" transform="translate(0.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <g id="icon-webring" mask="url(#mask-2)">
+                        <g transform="translate(1.848739, 1.848739)" id="Group">
+                            <g>
+                                <g transform="translate(8.504202, 12.416181) rotate(120.000000) translate(-8.504202, -12.416181) translate(1.109244, 6.869963)" id="Path" stroke="#000000" stroke-width="2.58823529">
+                                    <path d="M5.54621849,0 C2.4831266,0 6.5680421e-16,2.4831266 0,5.54621849 C0,8.60931038 2.4831266,11.092437 5.54621849,11.092437 L14.789916,11.092437"></path>
+                                </g>
+                                <g transform="translate(8.504202, 9.214071) rotate(-120.000000) translate(-8.504202, -9.214071) translate(1.109244, 3.667852)" id="Path" stroke="#000000" stroke-width="2.58823529">
+                                    <path d="M5.54621849,0 C2.4831266,0 6.5680421e-16,2.4831266 0,5.54621849 C0,8.60931038 2.4831266,11.092437 5.54621849,11.092437 L14.789916,11.092437"></path>
+                                </g>
+                                <g transform="translate(3.882353, 5.268908)" id="Path" stroke="#000000" stroke-width="2.58823529">
+                                    <path d="M5.54621849,0 C2.4831266,0 6.5680421e-16,2.4831266 0,5.54621849 C0,8.60931038 2.4831266,11.092437 5.54621849,11.092437 L14.789916,11.092437"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,40 @@
+{
+  "private": false,
+  "name": "patrik-arvidsson-studio",
+  "version": "1.0.0",
+  "author": "Sanity <hello@sanity.io>",
+  "scripts": {
+    "deploy": "npm run graphql-deploy && npm run sanity-deploy",
+    "format": "prettier-eslint --write \"**/*.js\" \"!node_modules/**\"",
+    "graphql-deploy": "sanity graphql deploy --playground",
+    "sanity-deploy": "sanity deploy",
+    "lint": "eslint .",
+    "start": "sanity start",
+    "test": "sanity check"
+  },
+  "dependencies": {
+    "@sanity/base": "^0.147.3",
+    "@sanity/components": "^0.147.3",
+    "@sanity/core": "^0.147.3",
+    "@sanity/dashboard": "^0.147.3",
+    "@sanity/default-layout": "^0.147.4",
+    "@sanity/default-login": "^0.147.0",
+    "@sanity/desk-tool": "^0.147.3",
+    "prop-types": "^15.7.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "sanity-plugin-markdown": "^1.0.1",
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-config-standard-react": "^9.2.0",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.17.0",
+    "eslint-plugin-standard": "^4.0.1",
+    "prettier-eslint-cli": "^5.0.0"
+  }
+}
