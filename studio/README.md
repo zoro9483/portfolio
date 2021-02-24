@@ -1,1 +1,0 @@
-# sanity-gatsby-portfolio-studio
